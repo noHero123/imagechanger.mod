@@ -1,9 +1,9 @@
 Hy guys,
 with this little mod you can simply change the image of your scrolls (NOT the ingame animations).
 
-Here is the source: github link yay
+Here is the source: https://github.com/noHero123/imagechanger.mod
 
-Here is the compiled dll: github link yay
+Here is the compiled dll: https://github.com/noHero123/imagechanger.mod/blob/master/libs/imagechanger.mod.dll?raw=true
 
 how to use:
 create a new folder in  .../Mojang/Scrolls/game/  with the wonderful name:"ownimages".
